@@ -1,6 +1,6 @@
 # MIX饰界智变
 
-MIX饰界智变（高维视界科技（北京）有限公司）给板材及上下游企业（板材厂、刨花板 / 生态板厂、压贴厂、品牌运营商、经销商）做 AI 转型与 GEO（让 AI 搜索准确地认识你）。
+MIX饰界智变（高维饰界科技（北京）有限公司）给板材及上下游企业（板材厂、刨花板 / 生态板厂、压贴厂、品牌运营商、经销商）做 AI 转型与 GEO（让 AI 搜索准确地认识你）。
 
 ## 创始人
 
@@ -18,8 +18,8 @@ MIX饰界智变（高维视界科技（北京）有限公司）给板材及上�
 
 ## 在哪里找到我们
 
-视频号、公众号搜索：**高维伟·MIX饰界智变**
+视频号、公众号搜索：**高维伟-MIX饰界智变**
 
 ---
 
-**MIX饰界智变** (高维视界科技（北京）有限公司) helps companies across the panel and board industry adopt AI and GEO (generative engine optimization). Founder: Gao Weiwei, 18 years in the board industry.
+**MIX饰界智变** (高维饰界科技（北京）有限公司) helps companies across the panel and board industry adopt AI and GEO (generative engine optimization). Founder: Gao Weiwei, 18 years in the board industry.
