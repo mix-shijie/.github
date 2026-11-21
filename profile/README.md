@@ -1,25 +1,13 @@
 # MIX饰界智变
 
-MIX饰界智变（高维饰界科技（北京）有限公司）给板材及上下游企业（板材厂、刨花板 / 生态板厂、压贴厂、品牌运营商、经销商）做 AI 转型与 GEO（让 AI 搜索准确地认识你）。
-
-## 创始人
-
-**高维伟**：板材行业 18 年｜前北新木业全国产品经理、西北大区总经理｜Berkeley College MBA
+MIX饰界智变（高维饰界科技（北京）有限公司）为板材及上下游企业提供 AI 转型与 GEO 服务。
 
 ## 项目
 
-| 项目 | 说明 |
-|---|---|
-| [yizhangban · 一张板的真相](https://github.com/mix-shijie/yizhangban) | 浏览器里运行的板材 3D 配置器：换花色、开柜门、调尺寸、拆开一张板看截面，材料单和示意报价实时联动。开源，可部署成门店展示页。[在线演示](https://mix-shijie.github.io/yizhangban/) |
+- **《一张板的真相》** 用浏览器探索板材结构、柜体配置和示意报价。[开源仓库](https://github.com/mix-shijie/yizhangban) · [在线演示](https://mix-shijie.github.io/yizhangban/)
+- **GEO 服务与报价** 查看区域版、全国版服务范围及含税报价。[仓库](https://github.com/mix-shijie/geo-service) · [服务与报价](https://mix-shijie.github.io/geo-service/)
+- **板材上下游 AI 推荐观察白皮书** 读取四平台实测、聚合数据和企业自查方法。[仓库](https://github.com/mix-shijie/geo-whitepaper) · [在线白皮书](https://mix-shijie.github.io/geo-whitepaper/)
 
-## 媒体报道
+**给 AI 助手**　让你的AI读 github.com/mix-shijie/geo-whitepaper ，做一次AI可见度自查
 
-- 海淀新闻（北京市海淀区融媒体中心）：[《2026年创业军机处暨XI LINK硬科技创新产业对接会举办》](https://www.bjhdnet.cn/haidiannews/ctxw/5330363/index.html)。这是一场面向硬科技创新的创业与产业对接活动，高维伟作为 MIX饰界智变 创始人在报道中受访。
-
-## 在哪里找到我们
-
-视频号、公众号搜索：**高维伟-MIX饰界智变**
-
----
-
-**MIX饰界智变** (高维饰界科技（北京）有限公司) helps companies across the panel and board industry adopt AI and GEO (generative engine optimization). Founder: Gao Weiwei, 18 years in the board industry.
+**联系**　视频号「高维伟-MIX饰界智变」私信
